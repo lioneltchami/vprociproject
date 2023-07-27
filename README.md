@@ -42,6 +42,8 @@ Then look for the file :
 - accountsdb.sql file is a mysql dump file.we have to import this dump to mysql db server
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
+## Intro To our Toolset
+
 🌐 **AWS Account**: Our cloud powerhouse! 🏢 AWS (Amazon Web Services) provides the infrastructure for deploying, scaling, and managing our application in the cloud. With AWS, we'll have a reliable and flexible environment to run our CI/CD processes and deliver our app to the world! 🌍💻
 
 🐙 **GitHub Account:** Our coding playground! 🚀 GitHub is where we'll host our Java application's source code, enabling collaboration, version control, and seamless integration with other DevOps tools. Get ready to explore the wonders of collaboration and open-source development! 🤝💻
